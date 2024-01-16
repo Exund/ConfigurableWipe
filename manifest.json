@@ -1,0 +1,9 @@
+﻿{
+    "name": "Clear ",
+    "version_number": "0.1.0",
+    "website_url": "https://github.com/Exund/",
+    "description": "Configure the behavior of items when all player die.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
