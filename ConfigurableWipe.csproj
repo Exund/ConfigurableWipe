@@ -50,6 +50,5 @@
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
   </ItemGroup>
-  
-  <ProjectExtensions><VisualStudio><UserProperties manifest_1json__JsonSchema="man" /></VisualStudio></ProjectExtensions>
+
 </Project>
